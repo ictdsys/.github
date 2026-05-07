@@ -2,11 +2,11 @@
 
 ## Projects
 
-[![Stats](./profile/L-F-Z-TaskC-stats.svg)](https://github.com/L-F-Z/TaskC)
+[![Stats](./L-F-Z-TaskC-stats.svg)](https://github.com/L-F-Z/TaskC)
 
-[![Stats](./profile/L-F-Z-TaskC-Demos-stats.svg)](https://github.com/L-F-Z/TaskC_Demos)
+[![Stats](./L-F-Z-TaskC-Demos-stats.svg)](https://github.com/L-F-Z/TaskC_Demos)
 
-[![Stats](./profile/L-F-Z-CRI-T-stats.svg)](https://github.com/L-F-Z/cri-t)
+[![Stats](./L-F-Z-CRI-T-stats.svg)](https://github.com/L-F-Z/cri-t)
 
 <!--
 
