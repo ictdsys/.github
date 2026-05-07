@@ -15,12 +15,28 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate pin card
+      - name: TaskC pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=L-F-Z&repo=TaskC
           path: profile/L-F-Z-TaskC-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: TaskC Demos pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=L-F-Z&repo=TaskC_Demos
+          path: profile/L-F-Z-TaskC-Demos-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: CRI-T pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=L-F-Z&repo=cri-t
+          path: profile/L-F-Z-CRI-T-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
