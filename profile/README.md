@@ -8,7 +8,7 @@
 
 [![Stats](./L-F-Z-CRI-T-stats.svg)](https://github.com/L-F-Z/cri-t)
 
-[![Stats](./L-F-Z-CRI-T-stats.svg)](https://github.com/agentserver/agentserver)
+[![Stats](./agentserver-agentserver-stats.svg)](https://github.com/agentserver/agentserver)
 <!--
 
 **Here are some ideas to get you started:**
