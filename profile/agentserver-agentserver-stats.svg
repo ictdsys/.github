@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Run OpenClaw and OpenCode in the browser. Self-hosted,</tspan><tspan dy="1.2em" x="25">multi-user, Helm-deployable.</tspan>
+      <tspan dy="1.2em" x="25">Your Personal Compute Network &#8212; command devices</tspan><tspan dy="1.2em" x="25">anywhere, from your WeChat chat window.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
